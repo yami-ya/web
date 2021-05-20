@@ -70,7 +70,7 @@ footer {
 	margin: 0 0 30px 0;
 	padding: 35px 0 35px 65px;
 	font-size: 156.25%;
-	background-image: url(../images/bg_h1_head.png), url(../images/bg_h1_bottom.png);
+	background-image: url(https://github.com/yami-ya/web/blob/main/bg_h1_head.png?raw=true), url(https://github.com/yami-ya/web/blob/main/bg_h1_bottom.png?raw=true);
 	background-repeat: no-repeat, no-repeat;
 	background-position: left top, left bottom;
 }
