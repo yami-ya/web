@@ -34,16 +34,16 @@ nav ul li a {
 	height: 0;
 }
 nav ul li#nav_concept a {
-	background-image: url(../images/nav1.png);
+	background-image: url(https://github.com/yami-ya/web/blob/main/nav1.png?raw=true);
 }
 nav ul li#nav_plan a {
-	background-image: url(../images/nav2.png);
+	background-image: url(https://github.com/yami-ya/web/blob/main/nav2.png?raw=true);
 }
 nav ul li#nav_fair a {
-	background-image: url(../images/nav3.png);
+	background-image: url(https://github.com/yami-ya/web/blob/main/nav3.png?raw=true);
 }
 nav ul li#nav_contact a {
-	background-image: url(../images/nav4.png);
+	background-image: url(https://github.com/yami-ya/web/blob/main/nav4.png?raw=true);
 }
 #contents {
 	overflow: hidden;
