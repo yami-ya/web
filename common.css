@@ -31,7 +31,7 @@ header h1 a img {
 }
 #breadcrumb ul li a {
 	padding-right: 15px;
-	background-image: url(../images/breadcrumb_arrow.png);
+	background-image: url(https://github.com/yami-ya/web/blob/main/breadcrumb_arrow.png?raw=true);
 	background-repeat: no-repeat;
 	background-position: right center;
 }
@@ -57,14 +57,14 @@ header h1 a img {
 	display: block;
 	min-height: 16px;
 	padding: 6px 0 6px 28px;
-	background-image: url(../images/bg_arrow.png);
+	background-image: url(https://github.com/yami-ya/web/blob/main/bg_arrow.png?raw=true);
 	background-repeat: no-repeat;
 	background-position: left bottom;
 }
 address {
 	padding-top: 15px;
 	clear: both;
-	background-image: url(../images/bg_footer.png);
+	background-image: url(https://github.com/yami-ya/web/blob/main/bg_footer.png?raw=true);
 	background-repeat: no-repeat;
 	font-style: normal;
 	text-align: center;
@@ -80,7 +80,7 @@ address {
 #main h2 {
 	margin-top: 0;
 	padding: 13px 0 13px 24px;
-	background-image: url(../images/bg_h2_head.png), url(../images/bg_h2_bottom.png);
+	background-image: url(https://github.com/yami-ya/web/blob/main/bg_h2_head.png?raw=true), url(https://github.com/yami-ya/web/blob/main/bg_h2_bottom.png?raw=true);
 	background-repeat: no-repeat, no-repeat;
 	background-position: left top, left bottom;
 	font-size: 112.5%;
